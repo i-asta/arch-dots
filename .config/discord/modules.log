@@ -1,0 +1,645 @@
+2023-06-11T15:31:17.581Z [Modules] Modules initializing
+2023-06-11T15:31:17.582Z [Modules] Distribution: remote
+2023-06-11T15:31:17.582Z [Modules] Host updates: enabled
+2023-06-11T15:31:17.582Z [Modules] Module updates: enabled
+2023-06-11T15:31:17.582Z [Modules] Module install path: /home/zoro/.config/discord/0.0.27/modules
+2023-06-11T15:31:17.583Z [Modules] Module installed file path: /home/zoro/.config/discord/0.0.27/modules/installed.json
+2023-06-11T15:31:17.583Z [Modules] Module download path: /home/zoro/.config/discord/0.0.27/modules/pending
+2023-06-11T15:31:17.827Z [Modules] Bootstrapping...
+2023-06-11T15:31:17.829Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-06-11T15:31:17.831Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-06-11T15:31:17.832Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-06-11T15:31:17.834Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-06-11T15:31:17.834Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-06-11T15:31:17.835Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-06-11T15:31:17.836Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-06-11T15:31:17.837Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-06-11T15:31:17.837Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-06-11T15:31:17.838Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-06-11T15:31:17.838Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-06-11T15:31:17.839Z [Modules] Checking for host updates.
+2023-06-11T15:31:18.294Z [Modules] Host is up to date.
+2023-06-11T15:31:18.295Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-11T15:31:18.354Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-06-11T15:31:18.355Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-06-11T15:31:18.355Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-06-11T15:31:18.355Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-06-11T15:31:18.355Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-06-11T15:31:18.356Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-06-11T15:31:18.357Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-06-11T15:31:18.852Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 2%
+2023-06-11T15:31:18.886Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 3%
+2023-06-11T15:31:18.889Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 4%
+2023-06-11T15:31:18.896Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 5%
+2023-06-11T15:31:18.899Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 6%
+2023-06-11T15:31:18.905Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 7%
+2023-06-11T15:31:18.934Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 8%
+2023-06-11T15:31:18.936Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 9%
+2023-06-11T15:31:18.940Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 10%
+2023-06-11T15:31:18.943Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 11%
+2023-06-11T15:31:18.946Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 12%
+2023-06-11T15:31:18.950Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 13%
+2023-06-11T15:31:18.953Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 14%
+2023-06-11T15:31:18.956Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 15%
+2023-06-11T15:31:18.960Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 17%
+2023-06-11T15:31:18.969Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 18%
+2023-06-11T15:31:18.972Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 19%
+2023-06-11T15:31:18.976Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 20%
+2023-06-11T15:31:18.979Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 22%
+2023-06-11T15:31:18.982Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 23%
+2023-06-11T15:31:18.985Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 24%
+2023-06-11T15:31:18.989Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 25%
+2023-06-11T15:31:18.992Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 26%
+2023-06-11T15:31:18.996Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 28%
+2023-06-11T15:31:18.999Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 29%
+2023-06-11T15:31:19.002Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 31%
+2023-06-11T15:31:19.005Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 33%
+2023-06-11T15:31:19.009Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 36%
+2023-06-11T15:31:19.012Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 38%
+2023-06-11T15:31:19.015Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 41%
+2023-06-11T15:31:19.018Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 44%
+2023-06-11T15:31:19.021Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 48%
+2023-06-11T15:31:19.025Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 50%
+2023-06-11T15:31:19.028Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 53%
+2023-06-11T15:31:19.031Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 56%
+2023-06-11T15:31:19.035Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 58%
+2023-06-11T15:31:19.038Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 61%
+2023-06-11T15:31:19.041Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 65%
+2023-06-11T15:31:19.044Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 69%
+2023-06-11T15:31:19.048Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 72%
+2023-06-11T15:31:19.050Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 76%
+2023-06-11T15:31:19.051Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 77%
+2023-06-11T15:31:19.053Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 82%
+2023-06-11T15:31:19.054Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 83%
+2023-06-11T15:31:19.058Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 86%
+2023-06-11T15:31:19.060Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 90%
+2023-06-11T15:31:19.061Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 93%
+2023-06-11T15:31:19.063Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 98%
+2023-06-11T15:31:19.064Z [Modules] Streaming discord_desktop_core@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 100%
+2023-06-11T15:31:19.066Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-06-11T15:31:19.066Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-06-11T15:31:20.414Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 3%
+2023-06-11T15:31:20.415Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 8%
+2023-06-11T15:31:20.416Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 12%
+2023-06-11T15:31:20.418Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 16%
+2023-06-11T15:31:20.419Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 20%
+2023-06-11T15:31:20.421Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 26%
+2023-06-11T15:31:20.422Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 30%
+2023-06-11T15:31:20.423Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 37%
+2023-06-11T15:31:20.424Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 39%
+2023-06-11T15:31:20.426Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 43%
+2023-06-11T15:31:20.427Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 44%
+2023-06-11T15:31:20.428Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 53%
+2023-06-11T15:31:20.430Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 56%
+2023-06-11T15:31:20.430Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 61%
+2023-06-11T15:31:20.431Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 65%
+2023-06-11T15:31:20.432Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 66%
+2023-06-11T15:31:20.466Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 70%
+2023-06-11T15:31:20.467Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 76%
+2023-06-11T15:31:20.473Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 80%
+2023-06-11T15:31:20.474Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 81%
+2023-06-11T15:31:20.488Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 85%
+2023-06-11T15:31:20.489Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 91%
+2023-06-11T15:31:20.502Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 92%
+2023-06-11T15:31:20.502Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 96%
+2023-06-11T15:31:20.503Z [Modules] Streaming discord_erlpack@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 100%
+2023-06-11T15:31:20.505Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-06-11T15:31:20.505Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-06-11T15:31:20.894Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 1%
+2023-06-11T15:31:20.895Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 2%
+2023-06-11T15:31:20.899Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 3%
+2023-06-11T15:31:20.900Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 4%
+2023-06-11T15:31:20.903Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 5%
+2023-06-11T15:31:20.904Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 6%
+2023-06-11T15:31:20.906Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 7%
+2023-06-11T15:31:20.907Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 8%
+2023-06-11T15:31:20.908Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 9%
+2023-06-11T15:31:20.910Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 10%
+2023-06-11T15:31:20.912Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 11%
+2023-06-11T15:31:20.916Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 12%
+2023-06-11T15:31:21.000Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 13%
+2023-06-11T15:31:21.088Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 14%
+2023-06-11T15:31:21.089Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 15%
+2023-06-11T15:31:21.090Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 17%
+2023-06-11T15:31:21.091Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 18%
+2023-06-11T15:31:21.092Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 19%
+2023-06-11T15:31:21.160Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 20%
+2023-06-11T15:31:21.174Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 21%
+2023-06-11T15:31:21.295Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 22%
+2023-06-11T15:31:21.296Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 24%
+2023-06-11T15:31:21.297Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 25%
+2023-06-11T15:31:21.298Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 26%
+2023-06-11T15:31:21.304Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 27%
+2023-06-11T15:31:21.305Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 28%
+2023-06-11T15:31:21.306Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 29%
+2023-06-11T15:31:21.307Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 30%
+2023-06-11T15:31:21.307Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 32%
+2023-06-11T15:31:21.311Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 33%
+2023-06-11T15:31:21.359Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 34%
+2023-06-11T15:31:21.360Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 35%
+2023-06-11T15:31:21.362Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 36%
+2023-06-11T15:31:21.382Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 37%
+2023-06-11T15:31:21.391Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 38%
+2023-06-11T15:31:21.397Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 39%
+2023-06-11T15:31:21.401Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 40%
+2023-06-11T15:31:21.450Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 41%
+2023-06-11T15:31:21.466Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 42%
+2023-06-11T15:31:21.467Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 43%
+2023-06-11T15:31:21.475Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 44%
+2023-06-11T15:31:21.561Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 45%
+2023-06-11T15:31:21.584Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 46%
+2023-06-11T15:31:21.585Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 47%
+2023-06-11T15:31:21.623Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 48%
+2023-06-11T15:31:21.643Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 49%
+2023-06-11T15:31:21.644Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 50%
+2023-06-11T15:31:21.645Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 51%
+2023-06-11T15:31:21.656Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 52%
+2023-06-11T15:31:21.657Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 53%
+2023-06-11T15:31:21.658Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 55%
+2023-06-11T15:31:21.714Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 56%
+2023-06-11T15:31:21.715Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 57%
+2023-06-11T15:31:21.716Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 58%
+2023-06-11T15:31:21.728Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 59%
+2023-06-11T15:31:21.747Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 60%
+2023-06-11T15:31:21.766Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 61%
+2023-06-11T15:31:21.777Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 62%
+2023-06-11T15:31:21.778Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 63%
+2023-06-11T15:31:21.819Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 64%
+2023-06-11T15:31:21.835Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 65%
+2023-06-11T15:31:21.858Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 66%
+2023-06-11T15:31:21.871Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 67%
+2023-06-11T15:31:21.891Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 68%
+2023-06-11T15:31:21.900Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 69%
+2023-06-11T15:31:21.901Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 70%
+2023-06-11T15:31:21.940Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 71%
+2023-06-11T15:31:21.962Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 72%
+2023-06-11T15:31:21.976Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 73%
+2023-06-11T15:31:21.992Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 74%
+2023-06-11T15:31:22.011Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 75%
+2023-06-11T15:31:22.012Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 77%
+2023-06-11T15:31:22.063Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 78%
+2023-06-11T15:31:22.073Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 79%
+2023-06-11T15:31:22.093Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 80%
+2023-06-11T15:31:22.110Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 81%
+2023-06-11T15:31:22.126Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 82%
+2023-06-11T15:31:22.148Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 83%
+2023-06-11T15:31:22.164Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 84%
+2023-06-11T15:31:22.165Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 85%
+2023-06-11T15:31:22.194Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 86%
+2023-06-11T15:31:22.217Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 87%
+2023-06-11T15:31:22.218Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 88%
+2023-06-11T15:31:22.250Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 89%
+2023-06-11T15:31:22.267Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 90%
+2023-06-11T15:31:22.285Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 91%
+2023-06-11T15:31:22.286Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 92%
+2023-06-11T15:31:22.308Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 93%
+2023-06-11T15:31:22.328Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 94%
+2023-06-11T15:31:22.351Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 95%
+2023-06-11T15:31:22.368Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 96%
+2023-06-11T15:31:22.374Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 97%
+2023-06-11T15:31:22.396Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 98%
+2023-06-11T15:31:22.397Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 99%
+2023-06-11T15:31:22.427Z [Modules] Streaming discord_spellcheck@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 100%
+2023-06-11T15:31:22.429Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-06-11T15:31:22.430Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-06-11T15:31:22.842Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 1%
+2023-06-11T15:31:22.848Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 2%
+2023-06-11T15:31:22.851Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 3%
+2023-06-11T15:31:22.858Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 4%
+2023-06-11T15:31:22.861Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 5%
+2023-06-11T15:31:22.867Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 6%
+2023-06-11T15:31:22.874Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 7%
+2023-06-11T15:31:22.878Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 8%
+2023-06-11T15:31:22.881Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 9%
+2023-06-11T15:31:22.887Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 10%
+2023-06-11T15:31:22.891Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 11%
+2023-06-11T15:31:22.897Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 12%
+2023-06-11T15:31:22.903Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 13%
+2023-06-11T15:31:22.907Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 14%
+2023-06-11T15:31:22.910Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 15%
+2023-06-11T15:31:22.916Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 16%
+2023-06-11T15:31:22.923Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 17%
+2023-06-11T15:31:22.926Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 18%
+2023-06-11T15:31:22.933Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 19%
+2023-06-11T15:31:22.936Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 20%
+2023-06-11T15:31:22.944Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 21%
+2023-06-11T15:31:22.946Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 22%
+2023-06-11T15:31:22.953Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 23%
+2023-06-11T15:31:22.956Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 24%
+2023-06-11T15:31:22.962Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 25%
+2023-06-11T15:31:22.969Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 26%
+2023-06-11T15:31:22.972Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 27%
+2023-06-11T15:31:22.975Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 28%
+2023-06-11T15:31:22.982Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 29%
+2023-06-11T15:31:22.985Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 30%
+2023-06-11T15:31:22.992Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 31%
+2023-06-11T15:31:22.998Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 32%
+2023-06-11T15:31:23.001Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 33%
+2023-06-11T15:31:23.005Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 34%
+2023-06-11T15:31:23.011Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 35%
+2023-06-11T15:31:23.018Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 36%
+2023-06-11T15:31:23.021Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 37%
+2023-06-11T15:31:23.027Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 38%
+2023-06-11T15:31:23.031Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 39%
+2023-06-11T15:31:23.037Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 40%
+2023-06-11T15:31:23.041Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 41%
+2023-06-11T15:31:23.047Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 42%
+2023-06-11T15:31:23.050Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 43%
+2023-06-11T15:31:23.057Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 44%
+2023-06-11T15:31:23.060Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 45%
+2023-06-11T15:31:23.067Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 46%
+2023-06-11T15:31:23.073Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 47%
+2023-06-11T15:31:23.076Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 48%
+2023-06-11T15:31:23.083Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 49%
+2023-06-11T15:31:23.086Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 50%
+2023-06-11T15:31:23.093Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 51%
+2023-06-11T15:31:23.096Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 52%
+2023-06-11T15:31:23.102Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 53%
+2023-06-11T15:31:23.106Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 54%
+2023-06-11T15:31:23.109Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 55%
+2023-06-11T15:31:23.116Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 56%
+2023-06-11T15:31:23.122Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 57%
+2023-06-11T15:31:23.126Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 58%
+2023-06-11T15:31:23.132Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 59%
+2023-06-11T15:31:23.139Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 60%
+2023-06-11T15:31:23.143Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 61%
+2023-06-11T15:31:23.145Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 62%
+2023-06-11T15:31:23.152Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 63%
+2023-06-11T15:31:23.155Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 64%
+2023-06-11T15:31:23.161Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 65%
+2023-06-11T15:31:23.177Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 68%
+2023-06-11T15:31:23.181Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 69%
+2023-06-11T15:31:23.188Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 70%
+2023-06-11T15:31:23.191Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 71%
+2023-06-11T15:31:23.198Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 72%
+2023-06-11T15:31:23.211Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 74%
+2023-06-11T15:31:23.214Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 75%
+2023-06-11T15:31:23.217Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 76%
+2023-06-11T15:31:23.220Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 77%
+2023-06-11T15:31:23.227Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 78%
+2023-06-11T15:31:23.230Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 79%
+2023-06-11T15:31:23.236Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 80%
+2023-06-11T15:31:23.240Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 81%
+2023-06-11T15:31:23.246Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 82%
+2023-06-11T15:31:23.249Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 83%
+2023-06-11T15:31:23.256Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 84%
+2023-06-11T15:31:23.263Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 85%
+2023-06-11T15:31:23.266Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 86%
+2023-06-11T15:31:23.272Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 87%
+2023-06-11T15:31:23.276Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 88%
+2023-06-11T15:31:23.279Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 89%
+2023-06-11T15:31:23.285Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 90%
+2023-06-11T15:31:23.293Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 91%
+2023-06-11T15:31:23.295Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 92%
+2023-06-11T15:31:23.301Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 93%
+2023-06-11T15:31:23.305Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 94%
+2023-06-11T15:31:23.308Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 95%
+2023-06-11T15:31:23.315Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 96%
+2023-06-11T15:31:23.321Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 97%
+2023-06-11T15:31:23.325Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 98%
+2023-06-11T15:31:23.339Z [Modules] Streaming discord_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 100%
+2023-06-11T15:31:23.342Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-06-11T15:31:23.342Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-06-11T15:31:23.774Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 1%
+2023-06-11T15:31:23.807Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 2%
+2023-06-11T15:31:23.843Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 3%
+2023-06-11T15:31:23.872Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 4%
+2023-06-11T15:31:23.909Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 5%
+2023-06-11T15:31:23.941Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 6%
+2023-06-11T15:31:23.976Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 7%
+2023-06-11T15:31:24.009Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 8%
+2023-06-11T15:31:24.043Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 9%
+2023-06-11T15:31:24.074Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 10%
+2023-06-11T15:31:24.107Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 11%
+2023-06-11T15:31:24.143Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 12%
+2023-06-11T15:31:24.176Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 13%
+2023-06-11T15:31:24.212Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 14%
+2023-06-11T15:31:24.241Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 15%
+2023-06-11T15:31:24.277Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 16%
+2023-06-11T15:31:24.310Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 17%
+2023-06-11T15:31:24.346Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 18%
+2023-06-11T15:31:24.379Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 19%
+2023-06-11T15:31:24.407Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 20%
+2023-06-11T15:31:24.440Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 21%
+2023-06-11T15:31:24.466Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 22%
+2023-06-11T15:31:24.496Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 23%
+2023-06-11T15:31:24.522Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 24%
+2023-06-11T15:31:24.554Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 25%
+2023-06-11T15:31:24.584Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 26%
+2023-06-11T15:31:24.610Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 27%
+2023-06-11T15:31:24.636Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 28%
+2023-06-11T15:31:24.665Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 29%
+2023-06-11T15:31:24.685Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 30%
+2023-06-11T15:31:24.713Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 31%
+2023-06-11T15:31:24.740Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 32%
+2023-06-11T15:31:24.763Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 33%
+2023-06-11T15:31:24.786Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 34%
+2023-06-11T15:31:24.809Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 35%
+2023-06-11T15:31:24.852Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 36%
+2023-06-11T15:31:24.855Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 37%
+2023-06-11T15:31:24.877Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 38%
+2023-06-11T15:31:24.900Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 39%
+2023-06-11T15:31:24.989Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 40%
+2023-06-11T15:31:25.024Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 41%
+2023-06-11T15:31:25.322Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 42%
+2023-06-11T15:31:25.324Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 43%
+2023-06-11T15:31:25.325Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 44%
+2023-06-11T15:31:25.327Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 45%
+2023-06-11T15:31:25.328Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 46%
+2023-06-11T15:31:25.329Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 47%
+2023-06-11T15:31:25.330Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 48%
+2023-06-11T15:31:25.390Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 49%
+2023-06-11T15:31:25.392Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 50%
+2023-06-11T15:31:25.393Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 51%
+2023-06-11T15:31:25.422Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 52%
+2023-06-11T15:31:25.425Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 53%
+2023-06-11T15:31:25.451Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 54%
+2023-06-11T15:31:25.468Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 55%
+2023-06-11T15:31:25.471Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 56%
+2023-06-11T15:31:25.507Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 57%
+2023-06-11T15:31:25.543Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 58%
+2023-06-11T15:31:25.596Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 59%
+2023-06-11T15:31:25.635Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 60%
+2023-06-11T15:31:25.696Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 61%
+2023-06-11T15:31:25.697Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 62%
+2023-06-11T15:31:25.716Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 63%
+2023-06-11T15:31:25.769Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 64%
+2023-06-11T15:31:25.817Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 65%
+2023-06-11T15:31:25.859Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 66%
+2023-06-11T15:31:25.876Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 67%
+2023-06-11T15:31:25.912Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 68%
+2023-06-11T15:31:25.935Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 69%
+2023-06-11T15:31:25.971Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 70%
+2023-06-11T15:31:26.032Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 71%
+2023-06-11T15:31:26.062Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 72%
+2023-06-11T15:31:26.075Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 73%
+2023-06-11T15:31:26.111Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 74%
+2023-06-11T15:31:26.147Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 75%
+2023-06-11T15:31:26.183Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 76%
+2023-06-11T15:31:26.239Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 77%
+2023-06-11T15:31:26.280Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 78%
+2023-06-11T15:31:26.284Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 79%
+2023-06-11T15:31:26.320Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 80%
+2023-06-11T15:31:26.356Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 81%
+2023-06-11T15:31:26.405Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 82%
+2023-06-11T15:31:26.428Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 83%
+2023-06-11T15:31:26.460Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 84%
+2023-06-11T15:31:26.496Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 85%
+2023-06-11T15:31:26.530Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 86%
+2023-06-11T15:31:26.584Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 87%
+2023-06-11T15:31:26.627Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 88%
+2023-06-11T15:31:26.666Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 89%
+2023-06-11T15:31:26.708Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 90%
+2023-06-11T15:31:26.722Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 91%
+2023-06-11T15:31:26.747Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 92%
+2023-06-11T15:31:26.784Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 93%
+2023-06-11T15:31:26.819Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 94%
+2023-06-11T15:31:26.852Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 95%
+2023-06-11T15:31:26.888Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 96%
+2023-06-11T15:31:26.924Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 97%
+2023-06-11T15:31:26.956Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 98%
+2023-06-11T15:31:27.024Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 99%
+2023-06-11T15:31:27.025Z [Modules] Streaming discord_voice@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 100%
+2023-06-11T15:31:27.027Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-06-11T15:31:27.028Z [Modules] Installing updates...
+2023-06-11T15:31:27.028Z [Modules] Installing discord_desktop_core@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-06-11T15:31:27.144Z [Modules] Installing discord_erlpack@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-06-11T15:31:27.224Z [Modules] Installing discord_spellcheck@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-06-11T15:31:28.071Z [Modules] Installing discord_utils@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-06-11T15:31:28.563Z [Modules] Installing discord_voice@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-06-11T15:31:29.513Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-06-11T15:31:29.513Z [Modules] Checking for host updates.
+2023-06-11T15:31:29.864Z [Modules] Host is up to date.
+2023-06-11T15:31:29.864Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-11T15:31:29.870Z [Modules] No module updates available.
+2023-06-11T15:31:32.138Z [Modules] Starting to install discord_krisp...
+2023-06-11T15:31:32.138Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-06-11T15:31:32.139Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-06-11T15:31:32.167Z [Modules] Starting to install discord_game_utils...
+2023-06-11T15:31:32.667Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 1%
+2023-06-11T15:31:32.703Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 2%
+2023-06-11T15:31:32.704Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 3%
+2023-06-11T15:31:32.708Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 4%
+2023-06-11T15:31:32.737Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 5%
+2023-06-11T15:31:32.775Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 6%
+2023-06-11T15:31:32.815Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 7%
+2023-06-11T15:31:32.854Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 8%
+2023-06-11T15:31:32.900Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 9%
+2023-06-11T15:31:32.929Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 10%
+2023-06-11T15:31:32.968Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 11%
+2023-06-11T15:31:33.007Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 12%
+2023-06-11T15:31:33.043Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 13%
+2023-06-11T15:31:33.082Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 14%
+2023-06-11T15:31:33.118Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 15%
+2023-06-11T15:31:33.154Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 16%
+2023-06-11T15:31:33.183Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 17%
+2023-06-11T15:31:33.216Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 18%
+2023-06-11T15:31:33.249Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 19%
+2023-06-11T15:31:33.281Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 20%
+2023-06-11T15:31:33.311Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 21%
+2023-06-11T15:31:33.340Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 22%
+2023-06-11T15:31:33.373Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 23%
+2023-06-11T15:31:33.399Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 24%
+2023-06-11T15:31:33.417Z [Modules] Checking for host updates.
+2023-06-11T15:31:33.432Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 25%
+2023-06-11T15:31:33.454Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 26%
+2023-06-11T15:31:33.481Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 27%
+2023-06-11T15:31:33.507Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 28%
+2023-06-11T15:31:33.529Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 29%
+2023-06-11T15:31:33.556Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 30%
+2023-06-11T15:31:33.582Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 31%
+2023-06-11T15:31:33.608Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 32%
+2023-06-11T15:31:33.751Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 33%
+2023-06-11T15:31:33.753Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 34%
+2023-06-11T15:31:33.782Z [Modules] Host is up to date.
+2023-06-11T15:31:33.782Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-11T15:31:33.785Z [Modules] Starting to install discord_rpc...
+2023-06-11T15:31:33.786Z [Modules] No module updates available.
+2023-06-11T15:31:33.943Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 35%
+2023-06-11T15:31:33.943Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 36%
+2023-06-11T15:31:33.945Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 37%
+2023-06-11T15:31:33.946Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 38%
+2023-06-11T15:31:33.947Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 39%
+2023-06-11T15:31:34.063Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 40%
+2023-06-11T15:31:34.064Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 41%
+2023-06-11T15:31:34.066Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 42%
+2023-06-11T15:31:34.067Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 43%
+2023-06-11T15:31:34.074Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 44%
+2023-06-11T15:31:34.097Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 45%
+2023-06-11T15:31:34.136Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 46%
+2023-06-11T15:31:34.181Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 47%
+2023-06-11T15:31:34.217Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 48%
+2023-06-11T15:31:34.254Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 49%
+2023-06-11T15:31:34.289Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 50%
+2023-06-11T15:31:34.319Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 51%
+2023-06-11T15:31:34.361Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 52%
+2023-06-11T15:31:34.400Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 53%
+2023-06-11T15:31:34.436Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 54%
+2023-06-11T15:31:34.472Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 55%
+2023-06-11T15:31:34.548Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 56%
+2023-06-11T15:31:34.557Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 57%
+2023-06-11T15:31:34.616Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 58%
+2023-06-11T15:31:34.668Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 59%
+2023-06-11T15:31:34.669Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 60%
+2023-06-11T15:31:34.740Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 61%
+2023-06-11T15:31:34.744Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 62%
+2023-06-11T15:31:34.783Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 63%
+2023-06-11T15:31:34.823Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 64%
+2023-06-11T15:31:34.851Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 65%
+2023-06-11T15:31:34.928Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 66%
+2023-06-11T15:31:35.141Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 67%
+2023-06-11T15:31:35.176Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 68%
+2023-06-11T15:31:35.212Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 69%
+2023-06-11T15:31:35.248Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 70%
+2023-06-11T15:31:35.284Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 71%
+2023-06-11T15:31:35.319Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 72%
+2023-06-11T15:31:35.355Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 73%
+2023-06-11T15:31:35.391Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 74%
+2023-06-11T15:31:35.427Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 75%
+2023-06-11T15:31:35.463Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 76%
+2023-06-11T15:31:35.499Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 77%
+2023-06-11T15:31:35.535Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 78%
+2023-06-11T15:31:35.571Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 79%
+2023-06-11T15:31:35.630Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 80%
+2023-06-11T15:31:35.666Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 81%
+2023-06-11T15:31:35.703Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 82%
+2023-06-11T15:31:35.739Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 83%
+2023-06-11T15:31:35.777Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 84%
+2023-06-11T15:31:35.810Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 85%
+2023-06-11T15:31:35.846Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 86%
+2023-06-11T15:31:35.882Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 87%
+2023-06-11T15:31:35.921Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 88%
+2023-06-11T15:31:35.953Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 89%
+2023-06-11T15:31:35.990Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 90%
+2023-06-11T15:31:36.025Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 91%
+2023-06-11T15:31:36.061Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 92%
+2023-06-11T15:31:36.096Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 93%
+2023-06-11T15:31:36.133Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 94%
+2023-06-11T15:31:36.169Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 95%
+2023-06-11T15:31:36.205Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 96%
+2023-06-11T15:31:36.234Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 97%
+2023-06-11T15:31:36.270Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 98%
+2023-06-11T15:31:36.299Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 99%
+2023-06-11T15:31:36.331Z [Modules] Streaming discord_krisp@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 100%
+2023-06-11T15:31:36.333Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-06-11T15:31:36.334Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-06-11T15:31:36.334Z [Modules] Installing discord_krisp@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-06-11T15:31:36.750Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 1%
+2023-06-11T15:31:36.753Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 2%
+2023-06-11T15:31:36.757Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 3%
+2023-06-11T15:31:36.760Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 4%
+2023-06-11T15:31:36.763Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 5%
+2023-06-11T15:31:36.766Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 6%
+2023-06-11T15:31:36.770Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 7%
+2023-06-11T15:31:36.773Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 8%
+2023-06-11T15:31:36.776Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 9%
+2023-06-11T15:31:36.780Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 10%
+2023-06-11T15:31:36.784Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 11%
+2023-06-11T15:31:36.790Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 13%
+2023-06-11T15:31:36.793Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 14%
+2023-06-11T15:31:36.796Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 15%
+2023-06-11T15:31:36.803Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 16%
+2023-06-11T15:31:36.803Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 17%
+2023-06-11T15:31:36.806Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 19%
+2023-06-11T15:31:36.812Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 21%
+2023-06-11T15:31:36.819Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 23%
+2023-06-11T15:31:36.826Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 25%
+2023-06-11T15:31:36.832Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 27%
+2023-06-11T15:31:36.838Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 29%
+2023-06-11T15:31:36.845Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 31%
+2023-06-11T15:31:36.848Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 32%
+2023-06-11T15:31:36.851Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 33%
+2023-06-11T15:31:36.858Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 35%
+2023-06-11T15:31:36.861Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 36%
+2023-06-11T15:31:36.865Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 37%
+2023-06-11T15:31:36.868Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 38%
+2023-06-11T15:31:36.871Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 39%
+2023-06-11T15:31:36.878Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 41%
+2023-06-11T15:31:36.881Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 42%
+2023-06-11T15:31:36.884Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 43%
+2023-06-11T15:31:36.887Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 44%
+2023-06-11T15:31:36.891Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 45%
+2023-06-11T15:31:36.894Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 46%
+2023-06-11T15:31:36.897Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 47%
+2023-06-11T15:31:36.900Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 48%
+2023-06-11T15:31:36.904Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 50%
+2023-06-11T15:31:36.907Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 51%
+2023-06-11T15:31:36.910Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 52%
+2023-06-11T15:31:36.913Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 54%
+2023-06-11T15:31:36.917Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 55%
+2023-06-11T15:31:36.920Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 56%
+2023-06-11T15:31:36.923Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 58%
+2023-06-11T15:31:36.930Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 60%
+2023-06-11T15:31:36.936Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 61%
+2023-06-11T15:31:36.940Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 62%
+2023-06-11T15:31:36.943Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 63%
+2023-06-11T15:31:36.946Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 64%
+2023-06-11T15:31:36.949Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 65%
+2023-06-11T15:31:36.953Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 66%
+2023-06-11T15:31:36.956Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 68%
+2023-06-11T15:31:36.959Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 69%
+2023-06-11T15:31:36.962Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 70%
+2023-06-11T15:31:36.966Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 71%
+2023-06-11T15:31:36.969Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 72%
+2023-06-11T15:31:36.972Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 74%
+2023-06-11T15:31:36.975Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 75%
+2023-06-11T15:31:36.979Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 76%
+2023-06-11T15:31:36.982Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 77%
+2023-06-11T15:31:36.985Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 78%
+2023-06-11T15:31:36.988Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 80%
+2023-06-11T15:31:36.992Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 81%
+2023-06-11T15:31:36.995Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 82%
+2023-06-11T15:31:36.998Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 84%
+2023-06-11T15:31:37.001Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 85%
+2023-06-11T15:31:37.005Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 86%
+2023-06-11T15:31:37.008Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 87%
+2023-06-11T15:31:37.011Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 88%
+2023-06-11T15:31:37.015Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 89%
+2023-06-11T15:31:37.018Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 91%
+2023-06-11T15:31:37.021Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 92%
+2023-06-11T15:31:37.024Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 93%
+2023-06-11T15:31:37.028Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 94%
+2023-06-11T15:31:37.031Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 95%
+2023-06-11T15:31:37.034Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 97%
+2023-06-11T15:31:37.037Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 98%
+2023-06-11T15:31:37.040Z [Modules] Streaming discord_game_utils@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 100%
+2023-06-11T15:31:37.041Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-06-11T15:31:37.041Z [Modules] Streaming discord_rpc@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-06-11T15:31:37.048Z [Modules] Installing discord_game_utils@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-06-11T15:31:37.156Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2023-06-11T15:31:37.460Z [Modules] Streaming discord_rpc@1 to /home/zoro/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip: 100%
+2023-06-11T15:31:37.461Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-06-11T15:31:37.461Z [Modules] Installing discord_rpc@1 from /home/zoro/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-06-11T15:31:37.480Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-06-11T16:15:09.759Z [Modules] Modules initializing
+2023-06-11T16:15:09.761Z [Modules] Distribution: remote
+2023-06-11T16:15:09.761Z [Modules] Host updates: enabled
+2023-06-11T16:15:09.761Z [Modules] Module updates: enabled
+2023-06-11T16:15:09.762Z [Modules] Module install path: /home/zoro/.config/discord/0.0.27/modules
+2023-06-11T16:15:09.762Z [Modules] Module installed file path: /home/zoro/.config/discord/0.0.27/modules/installed.json
+2023-06-11T16:15:09.762Z [Modules] Module download path: /home/zoro/.config/discord/0.0.27/modules/pending
+2023-06-11T16:15:10.077Z [Modules] No updates to install
+2023-06-11T16:15:10.078Z [Modules] Checking for host updates.
+2023-06-11T16:15:10.570Z [Modules] Host is up to date.
+2023-06-11T16:15:10.571Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-11T16:15:10.909Z [Modules] No module updates available.
+2023-06-11T16:15:14.984Z [Modules] Checking for host updates.
+2023-06-11T16:15:15.323Z [Modules] Host is up to date.
+2023-06-11T16:15:15.323Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-11T16:15:15.328Z [Modules] No module updates available.
+2023-06-12T07:41:33.296Z [Modules] Modules initializing
+2023-06-12T07:41:33.298Z [Modules] Distribution: remote
+2023-06-12T07:41:33.298Z [Modules] Host updates: enabled
+2023-06-12T07:41:33.298Z [Modules] Module updates: enabled
+2023-06-12T07:41:33.298Z [Modules] Module install path: /home/zoro/.config/discord/0.0.27/modules
+2023-06-12T07:41:33.299Z [Modules] Module installed file path: /home/zoro/.config/discord/0.0.27/modules/installed.json
+2023-06-12T07:41:33.299Z [Modules] Module download path: /home/zoro/.config/discord/0.0.27/modules/pending
+2023-06-12T07:41:33.626Z [Modules] No updates to install
+2023-06-12T07:41:33.629Z [Modules] Checking for host updates.
+2023-06-12T07:41:34.113Z [Modules] Host is up to date.
+2023-06-12T07:41:34.114Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-12T07:41:34.146Z [Modules] No module updates available.
+2023-06-12T07:41:37.225Z [Modules] Checking for host updates.
+2023-06-12T07:41:37.599Z [Modules] Host is up to date.
+2023-06-12T07:41:37.599Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-12T07:41:37.603Z [Modules] No module updates available.

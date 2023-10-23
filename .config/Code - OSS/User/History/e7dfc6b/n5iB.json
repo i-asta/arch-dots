@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.mouseWheelZoom": true,
+    "editor.fontWeight": 700,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "right"
+}

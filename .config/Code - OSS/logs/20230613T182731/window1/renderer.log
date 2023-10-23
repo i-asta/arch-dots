@@ -1,0 +1,2 @@
+2023-06-13 18:27:32.722 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/zoro/.config/polybar/config.ini","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-06-13 18:27:36.620 [info] [perf] Render performance baseline is 54ms

@@ -1,0 +1,6 @@
+2023/06/12-13:11:33.317 a7e Reusing MANIFEST /home/zoro/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/06/12-13:11:33.318 a7e Recovering log #4
+2023/06/12-13:11:33.319 a7e Reusing old log /home/zoro/.config/discord/Local Storage/leveldb/000004.log 
+2023/06/12-13:17:58.899 a7e Level-0 table #8: started
+2023/06/12-13:17:58.922 a7e Level-0 table #8: 1670599 bytes OK
+2023/06/12-13:17:58.924 a7e Delete type=0 #4
